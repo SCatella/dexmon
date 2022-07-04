@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dexmon/static/css/main.6b8a748e.css",
+    "main.js": "/dexmon/static/js/main.58699819.js",
+    "static/js/787.f27d116a.chunk.js": "/dexmon/static/js/787.f27d116a.chunk.js",
+    "index.html": "/dexmon/index.html",
+    "main.6b8a748e.css.map": "/dexmon/static/css/main.6b8a748e.css.map",
+    "main.58699819.js.map": "/dexmon/static/js/main.58699819.js.map",
+    "787.f27d116a.chunk.js.map": "/dexmon/static/js/787.f27d116a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8a748e.css",
+    "static/js/main.58699819.js"
+  ]
+}
