@@ -1,7 +1,10 @@
 .app-title {
-  margin: 40px, ;
+  margin: 40px, 0px;
+}
+
+h1 {
   font-family: fantasy;
-  font-size: 50px;
+  font-size: 7vw;
   letter-spacing: 2.5rem;
   color: rgb(0, 236, 236);
 }
